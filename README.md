@@ -1,2 +1,2 @@
 # Repo1
-First repository
+First repository for having hands on gits commands
